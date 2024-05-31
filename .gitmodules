@@ -4,6 +4,3 @@
 [submodule "HelloWorld/gf-complete"]
 	path = HelloWorld/gf-complete
 	url = https://github.com/ceph/gf-complete.git
-[submodule "redis"]
-	path = redis
-	url = https://github.com/boostorg/redis.git
